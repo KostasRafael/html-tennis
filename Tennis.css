@@ -19,8 +19,13 @@ height:200px;
 width:400px;
 }
 
+.container {
+  display:block;
+}
+
   .padding {
-  padding-left: 60px; }
+  padding-left: 60px;
+  }
 }
 
   
